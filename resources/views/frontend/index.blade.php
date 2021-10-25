@@ -3,20 +3,21 @@
 @section('content')
 <section class="resume-section" id="about">
     <div class="resume-section-content">
-        <h1 class="mb-0">
-            Clarence
-            <span class="text-primary">Taylor</span>
+        <h1 class="mb-0" style="font-size: 5rem">
+            Abdul
+            <span class="text-success">Mabud</span>
         </h1>
         <div class="subheading mb-5">
-            3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-            <a href="mailto:name@email.com">name@email.com</a>
+            <h4>Web Developer</p>
+                <a href="mailto:abdulmabudcse@gmail.com">abdulmabudcse@gmail.com</a>
+                <p>26/9(5th Floor), Sher-Shah-Suri Road, Mohammadpur, Dhaka-1207</p>
         </div>
-        <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+        <p class="lead mb-5">To build up a challenging career in a well reputed organization where gathered knowledge can be used effectively and efficiently and who provide me the scope of career development through evaluation of my competence..</p>
         <div class="social-icons">
-            <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
-            <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
-            <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
-            <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
+            <a class="social-icon" href="https://www.linkedin.com/in/abdulmabudm/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a class="social-icon" href="https://www.github.com/abdulmabud" target="_blank"><i class="fab fa-github"></i></a>
+            {{-- <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a> --}}
+            <a class="social-icon" href="https://www.facebook.com/abdulmabudm" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </div>
     </div>
 </section>
@@ -27,36 +28,18 @@
         <h2 class="mb-5">Experience</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="flex-grow-1">
-                <h3 class="mb-0">Senior Web Developer</h3>
-                <div class="subheading mb-3">Intelitec Solutions</div>
-                <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-            </div>
-            <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
-        </div>
-        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
                 <h3 class="mb-0">Web Developer</h3>
-                <div class="subheading mb-3">Intelitec Solutions</div>
-                <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                <div class="subheading mb-3">WEBNS Technology Ltd</div>
+                <p>➢ Customization emedicine24.com and maintenance this site.</p>
+                <p>➢ Create API for android application development.</p>
+                <p>➢ Add lots of new features as requirement of emedicine24.com.</p>
+                <p>➢ Development company others websites.</p>
+                <p>➢ Handle company all web related problem & fixing bugs.</p>
+                <p>➢ Communicating with key decision makers like MD sir & GM sir.</p>
             </div>
-            <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+            <div class="flex-shrink-0"><span class="text-primary">April 2019 – December 2020</span></div>
         </div>
-        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
-                <h3 class="mb-0">Junior Web Designer</h3>
-                <div class="subheading mb-3">Shout! Media Productions</div>
-                <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
-            </div>
-            <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
-        </div>
-        <div class="d-flex flex-column flex-md-row justify-content-between">
-            <div class="flex-grow-1">
-                <h3 class="mb-0">Web Design Intern</h3>
-                <div class="subheading mb-3">Shout! Media Productions</div>
-                <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-            </div>
-            <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
-        </div>
+       
     </div>
 </section>
 <hr class="m-0" />
@@ -66,20 +49,27 @@
         <h2 class="mb-5">Education</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="flex-grow-1">
-                <h3 class="mb-0">University of Colorado Boulder</h3>
-                <div class="subheading mb-3">Bachelor of Science</div>
-                <div>Computer Science - Web Development Track</div>
-                <p>GPA: 3.23</p>
+                <h3 class="mb-0">Daffodil Internation University</h3>
+                <div class="subheading mb-3">Compuer Science and Engineering</div>
+                <div>Passing Year: 2019</div>
+                <p>CGPA: 3.29</p>
             </div>
-            <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
         </div>
         <div class="d-flex flex-column flex-md-row justify-content-between">
             <div class="flex-grow-1">
-                <h3 class="mb-0">James Buchanan High School</h3>
-                <div class="subheading mb-3">Technology Magnet Program</div>
-                <p>GPA: 3.56</p>
+                <h3 class="mb-0">Meherpur Paura College, Meherpur</h3>
+                <div class="subheading mb-3">Division: Science</div>
+                <div>Passing Year: 2013</div>
+                <p>GPA: 3.60</p>
             </div>
-            <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+        </div>
+        <div class="d-flex flex-column flex-md-row justify-content-between">
+            <div class="flex-grow-1">
+                <h3 class="mb-0">Komorpur Secondary School, Meherpur</h3>
+                <div class="subheading mb-3">Division: Science</div>
+                <div>Passing Year: 2011</div>
+                <p>GPA: 4.63</p>
+            </div>
         </div>
     </div>
 </section>
@@ -89,93 +79,69 @@
     <div class="resume-section-content">
         <h2 class="mb-5">Skills</h2>
         <div class="subheading mb-3">Programming Languages & Tools</div>
-        <ul class="list-inline dev-icons">
-            <li class="list-inline-item"><i class="fab fa-html5"></i></li>
-            <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-            <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-            <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-            <li class="list-inline-item"><i class="fab fa-react"></i></li>
-            <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-            <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-            <li class="list-inline-item"><i class="fab fa-less"></i></li>
-            <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-            <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-            <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
-            <li class="list-inline-item"><i class="fab fa-npm"></i></li>
-        </ul>
-        <div class="subheading mb-3">Workflow</div>
         <ul class="fa-ul mb-0">
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Mobile-First, Responsive Design
+                Backend Development: Laravel Framework, PHP(OOP), PHP
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Cross Browser Testing & Debugging
+                Frontend Development: HTML5, CSS3, Bootstrap4
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Cross Functional Teams
+                JavaScript, jQuery, Ajax, Vue JS.
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
-                Agile Development & Scrum
+                Version control: Git
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Basic WordPress Customization
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Other Languages: C, Java
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-check"></i></span>
+                Database: MySQL
             </li>
         </ul>
     </div>
 </section>
 <hr class="m-0" />
 <!-- Interests-->
-<section class="resume-section" id="interests">
+<section class="resume-section" id="projects">
     <div class="resume-section-content">
-        <h2 class="mb-5">Interests</h2>
-        <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-        <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+        <h2 class="mb-5">Projects</h2>
+        <div class="subheading mb-3">01. Ecommerce website using Laravel. Link: <a href="https://ecom.abdulmabud.com/" target="_blank">Live</a> <a href="https://github.com/abdulmabud/E-Commerce-Laravel" target="_blank">Github</a></div>
+        <div class="subheading mb-3">02. Ecommerce website using PHP(OOP). Link: <a href="https://ecomphp.abdulmabud.com/" target="_blank">Live</a> <a href="https://github.com/abdulmabud/E-Commerce-PHP-OOP" target="_blank">Github</a></div>
+        <div class="subheading mb-3">03. Student Management System using Laravel Link: <a href="https://stms.abdulmabud.com/" target="_blank">Live</a> <a href="https://github.com/abdulmabud/Student-Management-System-Laravel" target="_blank">Github</a></div>
+        <div class="subheading mb-3">04. eMedicine24.com WordPress site development from tokoo theme. Link: <a href="https://emedicine24.com/" target="_blank">Live</a></div>
+        <div class="subheading mb-3">05. Online Bus Ticketing System. [Varsity final year project, Use: PHP, JavaScript, HTML5, CSS, Bootstrap]. Link: <a href="https://bus-ticket-php.abdulmabud.com/" target="_blank">Live</a> <a href="https://github.com/abdulmabud/busTicket" target="_blank">Github</a></div>
+        <div class="subheading mb-3">06. Blog - Laravel CRUD Application. Link: <a href="https://github.com/abdulmabud/Blog-Laravel-CRUD-Application" target="_blank">Github</a></div>
+        <div class="subheading mb-3">07. WEBNS Technology Ltd site: <a href="https://webnstech.net/" target="_blank">Live</a></div>
     </div>
 </section>
 <hr class="m-0" />
 <!-- Awards-->
-<section class="resume-section" id="awards">
+<section class="resume-section" id="training">
     <div class="resume-section-content">
-        <h2 class="mb-5">Awards & Certifications</h2>
+        <h2 class="mb-5">Training Courses</h2>
         <ul class="fa-ul mb-0">
             <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                Google Analytics Certified Developer
+                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                Web design and development 3 months. (SR Institute of design).
             </li>
             <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                Mobile Web Specialist - Google Certification
+                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                ASP .NET with C# 1 months by DIU.
             </li>
             <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                1
-                <sup>st</sup>
-                Place - University of Colorado Boulder - Emerging Tech Competition 2009
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                1
-                <sup>st</sup>
-                Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                2
-                <sup>nd</sup>
-                Place - University of Colorado Boulder - Emerging Tech Competition 2008
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                1
-                <sup>st</sup>
-                Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                3
-                <sup>rd</sup>
-                Place - James Buchanan High School - Hackathon 2005
+                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                Digital Marketing 1 days long course (Offered by WEBNS technology ltd).
             </li>
         </ul>
     </div>
