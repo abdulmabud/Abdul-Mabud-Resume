@@ -5,7 +5,7 @@
     <div class="resume-section-content">
         <h1 class="mb-0" style="font-size: 5rem">
             Abdul
-            <span class="text-success">Mabud</span>
+            <span style="color: #17A2B8">Mabud</span>
         </h1>
         <div class="subheading mb-5">
             <h4>Web Developer</p>
@@ -27,17 +27,17 @@
     <div class="resume-section-content">
         <h2 class="mb-5">Experience</h2>
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
+            <div class="flex-grow-1 experience">
                 <h3 class="mb-0">Web Developer</h3>
                 <div class="subheading mb-3">WEBNS Technology Ltd</div>
-                <p>➢ Customization emedicine24.com and maintenance this site.</p>
-                <p>➢ Create API for android application development.</p>
-                <p>➢ Add lots of new features as requirement of emedicine24.com.</p>
-                <p>➢ Development company others websites.</p>
-                <p>➢ Handle company all web related problem & fixing bugs.</p>
-                <p>➢ Communicating with key decision makers like MD sir & GM sir.</p>
+                <p><i class="fas fa-hand-point-right"></i> Customization emedicine24.com and maintenance this site.</p>
+                <p><i class="fas fa-hand-point-right"></i> Create API for android application development.</p>
+                <p><i class="fas fa-hand-point-right"></i> Add lots of new features as requirement of emedicine24.com.</p>
+                <p><i class="fas fa-hand-point-right"></i> Development company others websites.</p>
+                <p><i class="fas fa-hand-point-right"></i> Handle company all web related problem & fixing bugs.</p>
+                <p><i class="fas fa-hand-point-right"></i> Communicating with key decision makers like MD sir & GM sir.</p>
             </div>
-            <div class="flex-shrink-0"><span class="text-primary">April 2019 – December 2020</span></div>
+            <div class="flex-shrink-0"><span style="color: #17A2B8;">April 2019 – December 2020</span></div>
         </div>
        
     </div>
@@ -79,7 +79,7 @@
     <div class="resume-section-content">
         <h2 class="mb-5">Skills</h2>
         <div class="subheading mb-3">Programming Languages & Tools</div>
-        <ul class="fa-ul mb-0">
+        <ul class="fa-ul mb-0 skillui">
             <li>
                 <span class="fa-li"><i class="fas fa-check"></i></span>
                 Backend Development: Laravel Framework, PHP(OOP), PHP
@@ -132,15 +132,15 @@
         <h2 class="mb-5">Training Courses</h2>
         <ul class="fa-ul mb-0">
             <li>
-                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                <span class="fa-li"><i class="fas fa-book-open"></i></span>
                 Web design and development 3 months. (SR Institute of design).
             </li>
             <li>
-                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                <span class="fa-li"><i class="fas fa-book-open"></i></span>
                 ASP .NET with C# 1 months by DIU.
             </li>
             <li>
-                <span class="fa-li"><i class="fas fa-book-open text-warning"></i></span>
+                <span class="fa-li"><i class="fas fa-book-open"></i></span>
                 Digital Marketing 1 days long course (Offered by WEBNS technology ltd).
             </li>
         </ul>

@@ -1,3 +1,7 @@
 .subheading p{
     margin-bottom: 0;
 }
+
+.fa-hand-point-right, .fa-book-open, .fa-check{
+    color: #17A2B8;
+}
